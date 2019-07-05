@@ -1,5 +1,0 @@
-{
-    "require": {
-        "php-amqplib/php-amqplib": ">=v2.8.2-rc3"
-    }
-}
